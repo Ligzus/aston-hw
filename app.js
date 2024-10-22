@@ -1,6 +1,5 @@
 function hello() {
-    console.log("Привет, мир!");
-    console.log("Как дела?");
+    console.log("Привет, мир! Как дела?");
 }
 
 hello();
